@@ -1,0 +1,11 @@
+langchain
+langchain-text-splitters
+langchain-huggingface
+gradio
+sentence-transformers
+qdrant-client
+pypdf2
+python-docx
+portkey-ai
+langgraph
+python-dotenv
