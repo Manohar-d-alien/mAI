@@ -54,4 +54,4 @@ requirements.txt   # Dependencies
 ---
 
 ## 📖 **Blog**
-Read the detailed explanation here: *[Add your blog link]*
+Read the detailed explanation here: *[https://medium.com/@manohar31119/learn-understand-build-a-simple-rag-genai-app-4c2016dd8965]*
